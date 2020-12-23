@@ -2,6 +2,8 @@
 This contains the Tableau link which will direct you to the project. 
 The cleaning of the data was done using Python.
 
+https://public.tableau.com/profile/vishal1426#!/?newProfile=&activeTab=0 
+
 
 Contributors of this project are - 
 Vishal Baliga
