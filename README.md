@@ -1,4 +1,4 @@
-# MigrationProject
+# World Talent Migration Project
 This contains the Tableau link which will direct you to the project. 
 The cleaning of the data was done using Python.
 
