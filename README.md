@@ -1,4 +1,4 @@
-# World Talent Migration Project
+# LinkedIn World Talent Migration Analysis
 This contains the Tableau link which will direct you to the project. 
 The cleaning of the data was done using Python.
 
